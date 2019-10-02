@@ -16,3 +16,10 @@ html {
 .hover-box:hover .hover-box-caption {
   bottom: 0;
 }
+
+.hover-box-img {
+  filter: grayscale(100%);
+  transform: all .2s linear;
+}
+
+.hover-box:hover .hover-box-img
